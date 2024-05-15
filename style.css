@@ -2,6 +2,14 @@ body {
     background-color: rgb(245, 3, 152);
 }
 
+.Full-Name {
+    background-image: url(tablemountain.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: center;
+}
+
+
 .Beauty {
     background-color: cornflowerblue;
 }
@@ -81,6 +89,7 @@ body {
     /* margin-left: 0cm; */
     margin-bottom: 0.5cm;
     border-radius: 1cm;
+    text-align: center;
 }
 
 .Foreign {
@@ -91,6 +100,7 @@ body {
     /* margin-left: 0cm; */
     margin-bottom: 0.5cm;
     border-radius: 1cm;
+    text-align: center;
 }
 
 @media (min-width: 960px) {
